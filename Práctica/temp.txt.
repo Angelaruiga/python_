@@ -1,0 +1,16 @@
+# Crear la carpeta Práctica
+mkdir -p "Práctica"
+
+# Mover archivos a la carpeta Práctica
+mv Analisis_infartos_visualizacion.ipynb "Práctica/"
+mv Caso_practico_1_ARG.ipynb "Práctica/"
+mv Pontia_CasoPractico2_ARG.ipynb "Práctica/"
+
+# Verificar los cambios
+ls "Práctica/"
+
+# Actualizar Git
+git status
+git add "Práctica/"
+git commit -m "Mover archivos a la carpeta Práctica"
+git push origin 
