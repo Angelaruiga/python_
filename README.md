@@ -1,7 +1,3 @@
-# python_
-
-# python_
-
 ## Python Examples and Scripts
 
 ¡Bienvenido a mi repositorio de ejemplos y scripts en Python! Aquí encontrarás diversos scripts que he creado durante mis cursos y para publicaciones en LinkedIn. El propósito de este repositorio es compartir conocimientos y proporcionar ejemplos útiles para aquellos que están aprendiendo Python y desean ver cómo se aplican diferentes técnicas y bibliotecas en proyectos reales.
