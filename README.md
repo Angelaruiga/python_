@@ -9,8 +9,6 @@
 - [Instrucciones de Uso](#instrucciones-de-uso)
 - [Ejemplos Destacados](#ejemplos-destacados)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-
 ## Introducción
 
 Este repositorio contiene scripts de Python organizados en diferentes carpetas según su propósito y origen. Encontrarás scripts que he desarrollado durante mis cursos y otros que he creado como ejemplos para mis publicaciones en LinkedIn.
